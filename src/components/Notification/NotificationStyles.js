@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const FeedBack = styled.h2`
+export const FeedBack = styled.p`
 display:flex:
 width:auto;
 height:auto;

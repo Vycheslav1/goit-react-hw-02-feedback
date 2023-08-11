@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const StatTitle = styled.h2`
+export const StatTitle = styled.h1`
   display: flex;
   width: auto;
   height: auto;

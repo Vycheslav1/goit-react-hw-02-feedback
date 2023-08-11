@@ -7,7 +7,7 @@ export const Div = styled.div`
   margin-left: 40px;
 `;
 
-export const FeedBack = styled.h2`
+export const FeedBack = styled.p`
 display:flex:
 width:auto;
 height:auto;
