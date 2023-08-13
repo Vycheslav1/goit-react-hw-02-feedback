@@ -28,7 +28,7 @@ class WidgetFeedBack extends Component {
   };
 
   countPositiveFeedbackPercentage = state => {
-    return Math.floor(
+    return Math.round(
       (100 * this.state.good) /
         (this.state.good + this.state.neutral + this.state.bad)
     );
